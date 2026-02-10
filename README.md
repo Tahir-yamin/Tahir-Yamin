@@ -9,7 +9,6 @@ Project Manager - Mech Engg
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/tahiryamin)
 * ✉️  You can contact me at [tahiryamin2050@gmail.com](mailto:tahiryamin2050@gmail.com)
-* 🚀  I'm currently working on [To Do Application](http://github.com/Tahir-yamin/todo_hackathon_phase2)
 * 🧠  I'm currently learning AI Full Stack Development/ Machine Learning/ Data Science
 * 👥  I'm looking to collaborate on Machine Learning, Project Planning & scheduling, Data Science, Power Bi
 * 💬  Ask me about Likely to be Autistic, good in Math's & Analytical.
