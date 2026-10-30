@@ -1,83 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tahir Yamin
-====================================================================================================================================
+# Tahir Yamin
 
-🏆 **Excellent Project** | **Pro Level Developer & Project Manager** 
----------------------------
+**Mechanical Engineer · PMP · 15+ years in EPC project controls — and I build the engineering tools I wish I'd had.**
 
-**15+ Years of Strategic Project Management | AI Full Stack Developer | ML & Data Science Expert**
+Planning & project-controls specialist across Oil & Gas, offshore, shipbuilding and infrastructure (Pakistan, UAE, KSA), on portfolios up to USD 750M+. I write Python and Power BI to turn standards, schedules and site data into tools that produce client-ready deliverables.
 
-Seasoned professional with extensive experience in Oil & Gas, Shipbuilding, and EPC industries, now specializing in cutting-edge AI, Machine Learning, and Full Stack Development. Known for delivering excellent projects that exceed expectations and implementing enterprise-level solutions.
-
-### Core Expertise
-* **AI & Machine Learning**: LLMs, RAGs, AI Agents, GenAI Applications, Deep Learning
-* **Project Management**: Enterprise Portfolio Optimization, Resource Allocation, Strategic Planning
-* **Data Science**: Advanced Analytics, Predictive Modeling, NLP, Time Series Analysis
-* **Full Stack Development**: Modern web technologies, Cloud architecture, DevOps practices
-* **Robotics & Embodied AI**: Gemini Robotics integration, Computer Vision applications
-
-### Professional Overview
-
-* 🌍  **Location**: Pakistan
-* 🏢  **Experience**: 15+ years in enterprise project management & technical leadership
-* 🖥️  **Portfolio**: [LinkedIn Profile](http://linkedin.com/in/tahiryamin)
-* ✉️  **Contact**: [tahiryamin2050@gmail.com](mailto:tahiryamin2050@gmail.com)
-* 🎯  **Current Focus**: AI Full Stack Development, Enterprise AI Solutions, Machine Learning Architecture
-* 👥  **Collaboration**: Open to partnerships in ML, Data Science, AI Engineering, Power BI, and Strategic Planning
-* 💡  **Strengths**: Analytical thinking, Mathematical problem-solving, AI-driven solutions, Leadership
-
-### 🏅 Key Achievements
-
-- ✅ Led **excellent projects** across multiple industries with 95%+ success rate
-- ✅ Architected AI agent systems for enterprise-level automation
-- ✅ Built comprehensive AI bootcamp curriculum (self-paced learning platform)
-- ✅ Developed production-grade machine learning solutions
-- ✅ Expert in LLM applications: Claude, GPT, Gemini, Qwen, Llama
-- ✅ Created specialized AI agent collections (100+ Claude subagents)
-- ✅ Built industrial intelligence platforms (Gemini 2.5-Flash powered solutions)
-
-### 📚 Featured Projects
-
-**Excellent Project Showcases:**
-- **500 AI Agents Projects**: Curated collection of 500+ AI use cases across industries
-- **AI-Bootcamp**: Complete self-paced generative AI education platform
-- **Claude Code Subagents**: 100+ specialized AI agents for full-stack development
-- **AI Engineering Hub**: In-depth tutorials on LLMs, RAGs, and real-world AI applications
-- **Enterprise Portfolio Optimization Engine**: Multi-objective resource allocation for $500M+ portfolios
-- **Aegis OS Challenge**: Industrial Intelligence HUD powered by Gemini 2.5-Flash
-
-### 🛠️ Technical Stack
-
-**AI & ML**: PyTorch, TensorFlow, LangChain, LangGraph, CrewAI, DSPy, Ollama  
-**Languages**: Python, TypeScript, JavaScript, SQL, Go  
-**Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, GitHub Actions  
-**Databases**: PostgreSQL, MongoDB, Vector DBs (Pinecone, Weaviate)  
-**Frameworks**: Next.js, FastAPI, Django, React  
-
-### 🤝 Socials & Professional Networks
-
-<p align="left"> 
-  <a href="https://www.github.com/tahir-yamin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/tahir-yamin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahiryamin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-### 🎖️ Professional Badges & Certifications
-
-![AI Expert](https://img.shields.io/badge/AI%20Expert-Pro%20Level-success?style=flat-square)
-![Project Manager](https://img.shields.io/badge/Project%20Manager-Enterprise-blue?style=flat-square)
-![Full%20Stack%20Developer](https://img.shields.io/badge/Full%20Stack%20Developer-Advanced-brightgreen?style=flat-square)
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Expert-ff69b4?style=flat-square)
-![Data%20Science](https://img.shields.io/badge/Data%20Science-Pro-9cf?style=flat-square)
+📍 Pakistan · 💼 [LinkedIn](https://www.linkedin.com/in/tahiryamin) · ✉️ [tahiryamin2050@gmail.com](mailto:tahiryamin2050@gmail.com)
 
 ---
 
-💼 **Open to collaborations on:**
-- Excellent AI/ML Projects at Pro level
-- Enterprise-scale solutions
-- Strategic consulting and technical leadership
-- Mentoring and knowledge sharing
+## 🛠️ Engineering tools
 
-*Let's build something extraordinary together! 🚀*
+### [ReliefCraft — PSV Sizing & Compliance Workspace](https://github.com/Tahir-yamin/ReliefCraft-API520)
+Pressure-safety-valve sizing to **API 520 / 521 / 526 and ASME VIII**: gas, liquid, steam and two-phase (Omega/Leung) sizing; an API 521 scenario engine that selects the governing case; real fluid properties via CoolProp; 3 % inlet-loss and backpressure checks; auto-generated installation drawing and HTML / PDF / Excel datasheets. 45+ self-tests. [▶ Run it in Colab](https://colab.research.google.com/github/Tahir-yamin/ReliefCraft-API520/blob/master/PSV_Sizing_Compliance_Workspace.ipynb)
+
+### [Fast-SA Scheduling Optimiser](https://github.com/Tahir-yamin/Fast-SA-O-1-Delta-Engine-Pure-Python-No-MIP-)
+Hybrid LP + simulated-annealing engine for heavily constrained scheduling problems, in pure Python with no commercial solver. Benchmarked on the Kaggle *Santa's Workshop Tour 2019* problem (validated cost 69,953.01).
+
+## 📊 Project-controls analytics
+
+### [Construction Project Dashboard (Power BI)](https://github.com/Tahir-yamin/PowerBI-Construction-Dashboard)
+Tracks multi-site retail and infrastructure projects from tender to execution: schedule variance, S-curves, financial milestones and delay-rate forecasting, with DAX and MS Project integration.
+
+**Day-job toolkit:** Primavera P6 (L1–L4 baselines), EVM (SPI/CPI), delay analysis and EOT claims under FIDIC, schedule-risk analysis, WBS/CBS, Power BI dashboards.
+
+## 🧪 Applied AI (side projects)
+
+- [**Silent Health**](https://github.com/Tahir-yamin/silent-health) — browser-based screening tool that tracks motor and facial biomarkers on-device with MediaPipe FaceMesh; video and audio never leave the browser.
+- [**Sitara**](https://github.com/Tahir-yamin/Sitara-AAC-APP) — adaptive communication game for non-verbal autistic children in Pakistan, with Urdu support (Flutter + Gemini).
+- [**Aegis-OS**](https://github.com/Tahir-yamin/Aegis-OS-Challenge) — industrial-intelligence dashboard built for a Google AI challenge (Gemini 2.5 Flash).
+
+## 🧰 Stack
+
+**Engineering & controls:** Primavera P6 · MS Project · Power BI (DAX) · Excel · AutoCAD · SolidWorks
+**Code:** Python (NumPy, pandas, CoolProp, PuLP) · SQL · TypeScript · Jupyter / Colab
+
+## 🎓 Credentials
+
+MSc Mechanical Engineering (NUST) · BE Mechanical Engineering (NED UET) · **PMP** (PMI) · NEBOSH IGC · Six Sigma Green Belt · Oracle Primavera P6 Professional
+
+---
+
+**Available for:** schedule builds and reviews, delay/EOT support, project-controls dashboards, and custom engineering calculation tools.
+*Calculation tools are engineering aids; final designs should be verified and signed off by the responsible engineer.*
